@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\C++ Programming\ASSIGNMENTS\20127518-W08\String-2\main.cpp(6,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  String-2.vcxproj -> F:\C++ Programming\ASSIGNMENTS\20127518-W08\x64\Debug\String-2.exe
